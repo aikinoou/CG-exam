@@ -1328,14 +1328,14 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   spectralLut:
-    overrideState: 0
-    value: {fileID: 0}
+    overrideState: 1
+    value: {fileID: 2800000, guid: 6a6733887b7a8b7499a597988b4cdba8, type: 3}
     defaultState: 1
   intensity:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 0.506
   fastMode:
-    overrideState: 0
+    overrideState: 1
     value: 0
 --- !u!114 &11400000
 MonoBehaviour:
